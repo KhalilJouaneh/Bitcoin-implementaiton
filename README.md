@@ -8,4 +8,4 @@ To use:
 3. `npm run dev` to debug
 4. `npm run start` to use
 
-Happy hacking!
+Layer3 :)
